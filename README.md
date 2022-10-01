@@ -1,3 +1,10 @@
+<h1>WEB 200 Fundamentals of Web Development</h1>
+<h2>Contributors</h2>
+<ul>
+    <li>Professor Richard Krasso</li>
+    <li>TiaNiecia Mosley Butler</li>
+</ul>
+
 # WEB 200 Fundamentals of Web Development
 ## [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
 
